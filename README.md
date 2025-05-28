@@ -1,4 +1,4 @@
-# Frontend-Projects
+# Projects
 
 # 1) Loom
 
