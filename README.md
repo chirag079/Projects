@@ -18,7 +18,7 @@ Link: https://bit.ly/40wd2JY
 
 ProCare Healthcare Platform: Designed the UI using Figma under a strict timeline, ensuring design consistency and user-centric features. Developed the platform using Next.js, CSS, and other technologies to provide an AI-driven healthcare management system with a seamless user experience.
 
-Link: https://pro-care.onrender.com/
+Link: https://prorender.vercel.app
 
 Repo Link: https://github.com/Piyush7982/sih-internal
 
