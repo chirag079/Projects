@@ -20,8 +20,6 @@ ProCare Healthcare Platform: Designed the UI using Figma under a strict timeline
 
 Link: https://prorender.vercel.app
 
-Repo Link: https://github.com/Piyush7982/sih-internal
-
 
 # 4) Greencart Grocery Delivery Service
 
@@ -30,7 +28,14 @@ Greencart is a convenient grocery delivery app designed to bring fresh produce a
 Link: https://greencart-gs.vercel.app/
 
 
-# 5) Portfolio
+# 5) Quickstay Hotel Booking Platform
+
+A full-stack Hotel Booking Website built with the MERN stack (MongoDB, Express, React, Node.js). Features user authentication with Clerk, including pre-built Sign-in/Sign-up components. Includes Stripe integration for secure online payments and automatic email confirmations for bookings. Admin dashboard allows hotel management and room listings; deployed on Vercel for live access.
+
+Link: https://hb-gs.vercel.app/
+
+
+# 6) Portfolio
 
 Portfolio: Designed an engaging and professional portfolio using Figma and developed it with Next.js, CSS, and AccernityUI. Focused on showcasing projects with a clean, visually appealing, and interactive design.
 
